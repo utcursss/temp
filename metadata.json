@@ -1,0 +1,6 @@
+{
+  "name": "CalorieLens",
+  "description": "AI food calorie and nutrition scanner with dynamic portion recalculation and meal history",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
